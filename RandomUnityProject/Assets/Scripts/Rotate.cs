@@ -9,7 +9,7 @@ public class Rotate : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print("Rotation Script Started on" + gameObject.name);
     }
 
     // Update is called once per frame
