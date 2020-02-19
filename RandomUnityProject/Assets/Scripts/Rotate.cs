@@ -16,7 +16,7 @@ public class Rotate : MonoBehaviour
     void Update()
     {
     
-        //rotate
+        //rotatee
         print("speed: " + speed);
         transform.Rotate(0,speed,0);
     }
