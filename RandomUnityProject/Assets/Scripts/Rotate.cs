@@ -15,6 +15,8 @@ public class Rotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    
+        //rotate
         print("speed: " + speed);
         transform.Rotate(0,speed,0);
     }
